@@ -32,7 +32,7 @@ $Product = (Get-MyComputerProduct)
 $OSVersion = 'Windows 11' #Used to Determine Driver Pack
 $OSReleaseID = '24H2' #Used to Determine Driver Pack
 $OSName = 'Windows 11 24H2 x64'
-$OSEdition = 'Enterprise'
+$OSEdition = 'Pro'
 $OSActivation = 'Volume'
 $OSLanguage = 'en-US'
 
